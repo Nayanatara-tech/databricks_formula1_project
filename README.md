@@ -3,6 +3,19 @@
 <img width="731" height="383" alt="image" src="https://github.com/user-attachments/assets/c47533c8-2eec-4719-8167-1ac3362ef499" />
 
 **Interactive cluster**
-<img width="731" height="383" alt="image" src="https://github.com/user-attachments/assets/61a6f139-09af-4bec-99db-2e85a7391665" />
+<img width="1567" height="940" alt="image" src="https://github.com/user-attachments/assets/e5db17e5-aea6-4eca-84a2-45e45eac727e" />
+
+**Connecting to powerbi:**
+<img width="1711" height="972" alt="image" src="https://github.com/user-attachments/assets/6b548dd5-9c40-42b7-aee2-fb8c4c202aad" />
+<img width="1828" height="963" alt="image" src="https://github.com/user-attachments/assets/86a8a749-1203-4493-8a95-76f23ad7b146" />
+<img width="1897" height="1137" alt="image" src="https://github.com/user-attachments/assets/c83de1af-fe34-41f7-b821-651efe691653" />
+
+**Data Lineage**:
+<img width="1635" height="994" alt="image" src="https://github.com/user-attachments/assets/bf5cc683-4d9d-4c75-9ce5-cca92cc6f1aa" />
+
+
+
+
+
 
 
