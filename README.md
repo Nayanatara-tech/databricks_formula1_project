@@ -25,6 +25,10 @@ Unity Catalog for practicing modern data governance—setting up external locati
 
 <img width="799" height="439" alt="image" src="https://github.com/user-attachments/assets/6c52e2e5-042e-4bad-a028-181d7342d189" />
 
+**ADF Pipeline:**
+
+<img width="943" height="455" alt="image" src="https://github.com/user-attachments/assets/369e0f10-7657-4dca-915f-79c464887a2a" />
+
 **Connecting to powerbi:**
 
 <img width="1711" height="972" alt="image" src="https://github.com/user-attachments/assets/6b548dd5-9c40-42b7-aee2-fb8c4c202aad" />
