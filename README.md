@@ -31,8 +31,6 @@ Unity Catalog for practicing modern data governance—setting up external locati
 
 **Connecting to powerbi:**
 
-<img width="1711" height="972" alt="image" src="https://github.com/user-attachments/assets/6b548dd5-9c40-42b7-aee2-fb8c4c202aad" />
-
 <img width="1828" height="963" alt="image" src="https://github.com/user-attachments/assets/86a8a749-1203-4493-8a95-76f23ad7b146" />
 
 <img width="1897" height="1137" alt="image" src="https://github.com/user-attachments/assets/c83de1af-fe34-41f7-b821-651efe691653" />
