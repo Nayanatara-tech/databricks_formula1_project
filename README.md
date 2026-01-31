@@ -17,6 +17,14 @@ Unity Catalog for practicing modern data governance—setting up external locati
 
 <img width="1567" height="940" alt="image" src="https://github.com/user-attachments/assets/e5db17e5-aea6-4eca-84a2-45e45eac727e" />
 
+**Data Catalog with Manged and External Tables:**
+
+<img width="808" height="484" alt="image" src="https://github.com/user-attachments/assets/43772c47-feed-4fdf-93e7-63a39c335143" />
+
+**Databricks Pipeline:**
+
+<img width="799" height="439" alt="image" src="https://github.com/user-attachments/assets/6c52e2e5-042e-4bad-a028-181d7342d189" />
+
 **Connecting to powerbi:**
 
 <img width="1711" height="972" alt="image" src="https://github.com/user-attachments/assets/6b548dd5-9c40-42b7-aee2-fb8c4c202aad" />
