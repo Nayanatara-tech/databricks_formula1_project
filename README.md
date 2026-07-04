@@ -1,6 +1,6 @@
 **📌 Project Overview:**
 
-This project is a Formula One–themed data engineering practice where I implemented a full medallion architecture using Bronze (raw), Silver (clean/processed), and Gold (presentation) layers. The goal was to simulate an end‑to‑end ETL workflow—from data ingestion to transformation to analytics-ready outputs.
+This project is a Formula One - themed data engineering practice where I implemented a full medallion architecture using Bronze (raw), Silver (clean/processed), and Gold (presentation) layers. The goal was to simulate an end‑to‑end ETL workflow—from data ingestion to transformation to analytics-ready outputs.
 To support this pipeline, I provisioned and connected various Azure resources, including:
 
 Azure Databricks workspace for notebooks, workflows, and Delta Lake processing
